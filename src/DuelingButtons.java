@@ -24,11 +24,11 @@ public class DuelingButtons implements ActionListener {
 	Dimension SMALL = new Dimension(200,200);
 	
 	JFrame frame = new JFrame();
-	JPanel panel = new JPanel();
+	JPanel panel = new JPanel(); 
 
 	private void createUI() {
 		// 1. Add the panel to the frame
-
+        
 		// 2. Make the frame visible
 
 		// 3. Set the text of the leftButton to "Click me!"
