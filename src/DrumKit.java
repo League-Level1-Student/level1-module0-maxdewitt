@@ -68,9 +68,9 @@ public class DrumKit implements MouseListener {
    	 // 15. Download a drum sound and drop it into your "default package". You can find it on freesound.org. To download it, log in as leagueofamazing/code4life
    	 
    	 // 16. If they clicked on the drumImage...
-
+     
    		 // 17. ...use the playSound method to play a drum sound. Test to see if it works
-   
+        playSound("drum.wav");
  
     }
 
